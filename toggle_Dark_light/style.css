@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    background-color:white;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    height: 60px;
+    width: 60px;
+    border: solid;
+    border-radius: 30px;
+    color:white;   
+    background-color: black;
+}
